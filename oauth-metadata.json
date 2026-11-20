@@ -1,6 +1,6 @@
 {
-  "client_id": "https://posthog-render.onrender.com/",
-  "client_name": "PostHog Postman OAuth App",
+  "client_id": "https://sivakumar-konn.onrender.com/oauth-client",
+  "client_name": "Sivakumar konn OAuth App",
   "redirect_uris": ["https://pstmn.io"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
