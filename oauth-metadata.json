@@ -1,5 +1,5 @@
 {
-  "client_id": "https://sivakumar-konn.onrender.com/oauth-client",
+  "client_id": "https://sivakumar-konn.onrender.com",
   "client_name": "Sivakumar konn OAuth App",
   "redirect_uris": ["https://pstmn.io"],
   "grant_types": ["authorization_code", "refresh_token"],
