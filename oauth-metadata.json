@@ -1,0 +1,8 @@
+{
+  "client_id": "https://onrender.com",
+  "client_name": "PostHog Postman OAuth App",
+  "redirect_uris": ["https://pstmn.io"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
